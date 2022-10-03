@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there, I'm Derek 👋  
+* 📚 I'm a software developer with a background in law. 
+* 🏫 I'm currently part of the Founders and Coders skills bootcamp.
+* 💻 I'm interested in all things web dev related but especially UX/UI design.
+* 😄 Pronouns: he/him.
+* 👔 Find me on [LinkedIn](https://www.linkedin.com/in/derek-lo-ltl/).
 
 <!--
 **LL835/LL835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
