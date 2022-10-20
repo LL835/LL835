@@ -17,9 +17,10 @@
 </div>
 
 * I studied law at uni.
-* I then spent 3 years copyediting and proofreading for a legal information website before starting my coding journey.
+* I then spent around 3 years copyediting and proofreading for a legal information website before starting my coding journey.
 * I'm now part of the [Founders and Coders](https://www.foundersandcoders.com/) bootcamp.
 * I'm interested in all things related to software development but especially UX/UI design.
+* My pronouns are he/him.
 
 
 <!--
