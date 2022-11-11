@@ -5,7 +5,7 @@
  - 📚 I'm a law graduate in a publishing company looking for a career change.
  - ✨ I'm currently training in the Founders and Coders skills bootcamp.
  -  🎯 My goal is to become a full-stack developer.
- -  :rainbow: I'm especially interested in Web accessibility and UX/UI design.
+ -  :rainbow: I'm especially interested in web accessibility and UX/UI design.
  -  :blush: Pronouns: he/him.
 
 ###
